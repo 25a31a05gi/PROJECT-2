@@ -1,0 +1,7 @@
+“I followed modular programming approach”
+Steps:
+Understand reservation system
+Divide into modules
+Design seat structure (like 20 or 40 seats)
+Implement using arrays/structures
+Test booking & cancellation
